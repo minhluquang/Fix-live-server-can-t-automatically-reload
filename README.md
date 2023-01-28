@@ -37,7 +37,11 @@ live-server --port=3000 --browser=Firefox
 </br>
   <i><b>Extention name: <a href = "https://marketplace.visualstudio.com/items?itemName=yandeu.five-server">Live Server (Five Server)</i></b></br>
   <i><b>Current version in use: v0.1.11</i></b> </br>
-- You can find it in VS Code
+<p>- You can find it in VS Code</p>
+<div align = "center">
+  <img width = 100% src= "https://github.com/binvan789/Fix-live-server-can-t-automatically-reload/blob/main/liveserver.png">
+</div>
+
 </br>
 </br>
 
