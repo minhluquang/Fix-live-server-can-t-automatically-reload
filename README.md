@@ -46,6 +46,5 @@ live-server --port=3000 --browser=Firefox
 </br>
 
 
-
-
 ><p align = "center">Contact: <i><a href = "mailto: luminh2004@gmail.com">luminh2004@gmail.com</a></i></p>
+><p align = "center">Thanks and good luck!</a></i></p>
