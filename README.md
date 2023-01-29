@@ -11,7 +11,7 @@
   3️⃣ The last job is that you just have to enjoy 😉 </br>
  #
 <div align = "center">
- <img src = "https://github.com/binvan789/Fix-live-server-can-t-automatically-reload/blob/main/Untitled.png" width = 70%>
+ <img src = "https://github.com/binvan789/Fix-live-server-can-t-automatically-reload/blob/main/Untitled.png" width = 80%>
 </div>
 </br>
 </br>
