@@ -1,5 +1,5 @@
 # ⚠️ Fix live server extention can't automatically reload !
-- Perhaps some of you will encounter a situation where the <i><b>Live Server</b></i> extension cannot automatically reload the page even though you have tried to fix it anyway. You can download it right on VS Code that is an extention made by Microsoft, so it is also quite stable.
+- Perhaps some of you may encounter a situation where the Live Server extension fails to automatically reload the page, even though you have tried to fix it. In such cases, you can download the Live Server extension directly from VS Code, which is an extension made by Microsoft and is known for its stability.
 # ℹ️ Information about extention
   **Extention name: Live Preview** </br>
   **Version: v0.5.2023012701** </br>
